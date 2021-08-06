@@ -1,9 +1,9 @@
 @media (max-width: 1024px) {
-
+/* 
     .hit-img {
         width: 368px;
-    }
-}
+    }*/
+} 
 
 
 /* tablet */
@@ -25,8 +25,8 @@
     }
 }
 
-/* mpbile */
-@media (max-width: 739px) {
+/* mobile */
+@media  (max-width: 739px) {
 
         #header {
             overflow:hidden;
@@ -82,10 +82,11 @@
     }
 
     .hit-img {
-        width: 366px;
+        width: 100%;
     }
 
     #footer .footer-item {
         padding-left: 19px;
     }
 }
+
